@@ -1,0 +1,61 @@
+col1:
+diagnosis : du doan
+malignant : ac tinh
+benigna : nhe
+
+col2: 
+radius mean : ban kinh trung binh
+
+col3:
+texture mean : ket cau
+
+col4:
+perimeter mean : chi vi
+
+col5:
+area mean : khu vuc 
+
+col6:
+smoothness mean : min mang
+
+col7:
+compactness mean : nho gon 
+
+col8:
+concavity mean : tinh trang chung
+
+col9:
+concave points mean : diem lom
+
+col10:
+symmetry mean : doi xung
+
+col11:
+fractal dimension mean : kich thuoc fractal
+
+col12:
+radius se : ban kinh se
+
+col13:
+texture se : ket cau se
+
+col14:
+perimeter se : chu vi se
+
+area se             area se
+smoothness se       mịn màng se
+compactness se      nhỏ gọn se
+concavity se        sự kết hợp
+concave points se   điểm lõm se
+symmetry se         đối xứng se
+fractal dimension   kích thước fractal se
+radius worst        ban kinh tồi tệ nhất
+texture worst       chu vi toi te nhat 
+perimeter worst     khu vuc toi te nhat
+area worst          do min te nhat
+smoothness se       nhỏ gọn tệ nhất
+compactness se      tình trạng tồi tệ nhất
+concavity se        su ket hop tồi tệ nhất
+concave points se   điểm lõm tồi tệ nhất
+symmetry se         đối xứng tệ nhất
+fractal dimension   kích thước fractal tồi tệ nhất
